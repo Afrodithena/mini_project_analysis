@@ -1,4 +1,0 @@
-Git practice notes
-Line one
-Line two
-Line three
